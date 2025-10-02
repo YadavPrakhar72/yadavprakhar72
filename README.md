@@ -41,3 +41,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 Email: prakharyadav7295@gmail.com
 
 LinkedIn: linkedin.com/in/prakharyadav7295
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYadavPrakhar72%26show_icons%3Dtrue%26theme%3Dradical" alt="Prakhar's GitHub Stats" />
+</p>
