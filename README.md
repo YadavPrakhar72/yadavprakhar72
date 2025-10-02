@@ -8,7 +8,7 @@ Today, I leverage this unique background to solve complex problems and drive val
 
 - 🔭 I’m currently expanding my portfolio with more end-to-end Machine Learning projects.
 - 🌱 I’m always learning about new data visualization techniques and cloud data platforms.
--  portfolio website link - **[prakharyadav.com](https://YOUR_PORTFOLIO_LINK_HERE.netlify.app/)** *(<-- Don't forget to update this!)*
+-  Portfolio website link - **[prakharydv.netlify.app](https://prakharydv.netlify.app/)** 
 - 📫 How to reach me: **[prakharyadav7295@gmail.com](mailto:prakharyadav7295@gmail.com)**
 
 ---
