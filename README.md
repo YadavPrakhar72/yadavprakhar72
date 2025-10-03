@@ -40,11 +40,7 @@ Here are a few projects I'm proud of. You can find more on my portfolio website 
 
 ## 🌐 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-007BFF?style=for-the-badge&logo=domain&logoColor=white)](https://YOUR_PORTFOLIO_LINK_HERE.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-007BFF?style=for-the-badge&logo=domain&logoColor=white)](https://prakharydv.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakharyadav7295/)
 
 ---
-
-## 📈 My GitHub Stats
-
-[![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YadavPrakhar72&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
